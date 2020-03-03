@@ -1,3 +1,6 @@
-## Kohonen Challenge
+## Kohonen Self Organising Map
 
-Please see [kohonen.ipynb](kohonen.ipynb)
+Please see Solution.iypnb and src/ folder for necessary code.
+
+The solution was fully implemented in numpy with JIT optimizations for a select few functions.
+
